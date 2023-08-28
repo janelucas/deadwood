@@ -1,0 +1,24 @@
+source,years_since_death,mean_percentage_suspended,sample_size,Volume loss (%)
+dendro,2,74.66666667,15,35.33333333
+dendro,3,47.5,4,45
+dendro,4,32.5,8,52.5
+dendro,5,20,5,69
+dendro,6,13.88888889,18,43.19444444
+dendro,7,53.33333333,9,47.77777778
+dendro,8,0,16,92.5
+dendro,8.5,13.33333333,24,67.08333333
+dendro,9,0,8,87.5
+dendro,12,100,8,97.5
+dendro,13,100,8,97.5
+dendro,13.5,100,8,97.5
+plot.census,6,15,8,40
+plot.census,7,50,4,50
+plot.census,8,0,8,92.5
+plot.census,8.5,21.61290323,62,75.90163934
+plot.census,9,0,4,87.5
+plot.census,12,100,4,97.5
+plot.census,13,100,4,97.5
+plot.census,13.5,80.47619048,21,92.85714286
+plot.census,18.5,71.42857143,7,83.57142857
+plot.census,23.5,0,1,87.5
+plot.census,33.5,100,2,97.5
